@@ -69,9 +69,3 @@ bash scripts/train-multigpu.sh
 此项目基于*Image-to-Image Translation with Conditional Adversarial Networks*（[参考代码](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)）和*High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs* 实现（[参考代码](https://github.com/NVIDIA/pix2pixHD)）<br />
 另外也参考了jittor的官方基础库，点击[这里](https://github.com/Jittor/JGAN)可以查看详细的代码。<br />
 本项目也是依据jittor基础框架实现，点击[这里]()可以详细查看jittor的源代码，点击[这里](https://cg.cs.tsinghua.edu.cn/jittor/tutorial/2020-5-2-16-43-pytorchconvert/)可以查看将pytroch代码转化为jittor代码的详细教程。
-
-## 注意事项
-
-点击项目的“设置”，在Description一栏中添加项目描述，需要包含“jittor”字样。同时在Topics中需要添加jittor。
-
-![image-20220419164035639](https://s3.bmp.ovh/imgs/2022/04/19/6a3aa627eab5f159.png)
